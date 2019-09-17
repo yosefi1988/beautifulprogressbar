@@ -12,6 +12,7 @@
         app:titleText="Please Wait..."
         android:id="@+id/loading_container"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"></ir.sajjadyosefi.beautifulprogressbar.ProgressbarContainer>
+        android:layout_height="match_parent">
+    </ir.sajjadyosefi.beautifulprogressbar.ProgressbarContainer>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
