@@ -12,6 +12,6 @@ creator sajjad yosefi 09123678522
         android:layout_height="match_parent">
     </ir.sajjadyosefi.beautifulprogressbar.ProgressbarContainer>
 ```
-![alt text](https://raw.githubusercontent.com/yosefi1988/Super_android_views/master/app/src/main/res/drawable/device20190917083815.gif)
+![alt text](https://raw.githubusercontent.com/yosefi1988/beautifulprogressbar/master/app/src/main/res/drawable/device20190917083815.gif)
 
 
