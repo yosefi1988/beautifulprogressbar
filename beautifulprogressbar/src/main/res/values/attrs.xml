@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="beautifulprogressbarOptions">
+        <attr name="titleText" format="string" localization="suggested" />
+    </declare-styleable>
+
+    <declare-styleable name="DualProgressView">
+        <attr name="dpv_anim_duration" format="integer"/>
+        <attr name="dpv_outer_color" format="color"/>
+        <attr name="dpv_inner_color" format="color"/>
+        <attr name="dpv_thickness" format="dimension"/>
+        <attr name="dpv_inner_padding" format="dimension"/>
+    </declare-styleable>
+
+</resources>

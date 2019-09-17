@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="passenger_item_height">80dp</dimen>
+    <dimen name="default_thickness">3dp</dimen>
+    <dimen name="default_inner_padding">8dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_font_size_large">21sp</dimen>
+
+</resources>

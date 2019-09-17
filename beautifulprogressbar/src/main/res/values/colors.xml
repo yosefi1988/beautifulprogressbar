@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="newUi_white">#fff</color>
+    <color name="newUi_buttinNormalEnd">#9f044c</color>
+
+    <color name="new_ui_progress_bar_back_color">#aa000000</color>
+
+
+</resources>
