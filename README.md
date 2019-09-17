@@ -1,4 +1,4 @@
-# beautiful progress bar From persia 💖
+# beautiful progress bar from persia 💖
 
 
 creator sajjad yosefi 09123678522
